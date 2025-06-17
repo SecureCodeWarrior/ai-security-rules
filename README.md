@@ -1,3 +1,5 @@
+![Banner](./assets/banner.jpg)
+
 ## SecureCodeWarrior (SCW) AI Security Rules
 
 Current version: **1.0.0**
