@@ -7,10 +7,15 @@ Current version: **1.0.0**
 ### Overview
 This repository contains security rule files designed to be used with AI-assisted developer tools such as GitHub Copilot, Cursor, Windsurf, and other context-aware coding assistants.
 
-Each rule file defines security best practices that guide how AI tools interact with your codebase. They are organized by platform:
-- **Backend** (`backend.md`)
-- **Frontend** (`frontend.md`)
-- **Mobile** (`mobile.md`)
+Each rule file defines security best practices that guide how AI tools interact with your codebase.
+
+#### Platform-Specific Rules
+- **Backend** (`backend.md`) - Server-side security practices
+- **Frontend** (`frontend.md`) - Client-side security practices
+- **Mobile** (`mobile.md`) - Mobile application security
+
+#### Language-Specific Rules
+- **Python** (`language-specific/python.md`) - Python-specific security practices including deserialization, cryptography, and safe coding patterns
 
 ### Purpose
 AI coding assistants are powerful, but they can generate insecure or non-compliant code without proper guidance. These tools work best when contextual rules steer them toward safe, standardized output.
