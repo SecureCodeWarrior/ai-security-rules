@@ -2,7 +2,7 @@
 
 ## SecureCodeWarrior (SCW) AI Security Rules
 
-Current version: **1.0.0**
+Current version: **1.1.0**
 
 ### Overview
 This repository contains security rule files designed to be used with AI-assisted developer tools such as GitHub Copilot, Cursor, Windsurf, and other context-aware coding assistants.
